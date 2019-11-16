@@ -1,1 +1,1 @@
-# Fully-Convolutional-ResNet-PyTorch
+# Fully-Convolutional-ResNet-PyTorch Tutorial
